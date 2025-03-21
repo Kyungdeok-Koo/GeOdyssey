@@ -1,0 +1,13 @@
+selenium
+webdriver-manager
+googlemaps
+pillow == 11.1.0
+image
+konlpy
+pandas == 2.2.2
+numpy == 2.0.2
+nltk == 3.9.1
+folium == 0.19.5
+requests == 2.32.3
+beautifulsoup4 == 4.13.3
+chardet == 5.2.0
