@@ -13,7 +13,7 @@
 <br>
 
 ## 진행 방식
-![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-21%2015-20-36.png)
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-21%2017-58-23.png)
 <br>
 <br>
 
