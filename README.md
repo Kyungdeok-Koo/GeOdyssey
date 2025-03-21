@@ -13,13 +13,14 @@
 <br>
 
 ## 진행 방식
-![image](https://github.com/Kyungdeok-Koo/GeOdyssey/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-21%2015-20-36.png)
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-21%2015-20-36.png)
 <br>
 <br>
 
 ## 주요 기능
 ##### 집회 관련 사용자의 질문에 맞게 응답을 함
-![image](https://github.com/user-attachments/assets/5fb56225-7ef4-4d01-87ee-0cb510d30212)
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-21%2015-35-17.png)
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-21%2015-35-47.png)
 
 <br>
 <br>
