@@ -73,8 +73,7 @@ from gensim.models import CoherenceModel
 import pyLDAvis
 import pyLDAvis.gensim_models as gensimvis
 
-"""# **1번) 2016~2025년도 기사들을 2개년씩 나누어서 진행한 크롤링 코드**
-## **자료 양이 많아서 2개년씩 나누어서 총 5번 코드 진행**
+"""# **1번) YTN_NEWS 소량의 기사 크롤링 코드**
 """
 
 def setup_colab():
