@@ -25,10 +25,6 @@ Original file is located at
 ! pip install pyLDAvis
 ! pip install -U gensim
 
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
 from google.colab import drive
 import os
 import time
