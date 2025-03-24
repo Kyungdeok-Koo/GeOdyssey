@@ -11,3 +11,7 @@ folium == 0.19.5
 requests == 2.32.3
 beautifulsoup4 == 4.13.3
 chardet == 5.2.0
+matplotlib == 3.10.0 
+wordcloud == 1.9.4 
+gensim == 4.3.3 
+pyLDAvis == 3.4.1
