@@ -199,7 +199,17 @@
 
 ## 프로젝트 최종 목적
 - #### 방대한 기사 빅데이터를 요약 정리 및 해당분야에 관심있는 독자들에게 제공
-![데모 영상](https://youtu.be/82nhGX_v9rE?si=1Opynk38Po8bXI60) 
+- # 데모 영상 🎥  
+
+<p align="center">
+  <a href="https://youtu.be/82nhGX_v9rE?si=KPm0ix_LHVz0aEZ4">
+    <img src="https://img.youtube.com/vi/82nhGX_v9rE/0.jpg" alt="데모 영상">
+  </a>
+</p>
+
+<p align="center">
+  👉 <a href="https://youtu.be/82nhGX_v9rE?si=KPm0ix_LHVz0aEZ4">데모 영상 보기</a>
+</p>
   
 
 <br>
