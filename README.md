@@ -61,10 +61,16 @@
 ```
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ## 진행방식
 ![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-21%2017-58-23.png)
 
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -80,24 +86,120 @@
 
 ## 주요 기능
 ##### TOPIC 간의 유사성 및 관계 구조를 시각화하기 위해 활용
-![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-24%2017-53-56.png)
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2010-22-09.png)
+<br>
+<br>
 <br>
 ##### Intertopic Distance Map & Top30_Most Relevant Terms for Topic 2 
 ![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-24%2018-02-52.png)
 <br>
+<br>
+<br>
+##### Big Kinds Comparative Analysis
 ![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-24%2018-05-22.png)
 <br>
-##### Word_Cloud
-![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-24%2017-49-17.png)
 <br>
+<br>
+##### 2024_2025 Word_Cloud
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2010-25-11.png)
+<br>
+<br>
+<br>
+##### NLTK 고유명사 추출
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2010-45-42.png)
+<br>
+<br>
+<br>
+##### 정규 표현식 활용
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2010-49-35.png)
+<br>
+<br>
+<br>
+##### Google Maps API (주소 및 경.위도 좌표 추출)
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2010-51-03.png)
+<br>
+<br>
+<br>
+##### Folium 좌표 시각화
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2010-53-29.png)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## 최종 예상 결과
 ##### GEOINT Data Visualization
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2011-07-00.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2011-07-45.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2011-08-31.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2011-09-09.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2011-09-42.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2011-10-00.png)
+<br>
+<br>
+<br>
+<br>
 ![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-21%2015-35-47.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2011-14-41.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2011-15-01.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2011-15-24.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2011-15-40.png)
+<br>
+<br>
+<br>
+<br>
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2011-16-01.png)
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-## 프로젝트 목적
+## 프로젝트 최종 목적
 - #### 방대한 기사 빅데이터를 요약 정리 및 해당분야에 관심있는 독자들에게 제공
+![데모 영상](https://youtu.be/82nhGX_v9rE?si=1Opynk38Po8bXI60) 
   
 
 <br>
