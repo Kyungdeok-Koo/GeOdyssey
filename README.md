@@ -112,8 +112,8 @@
 <br>
 <br>
 <br>
-##### 2024_2025 Word_Cloud
-![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2010-25-11.png)
+##### Word_Cloud
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-26%2016-21-06.png)
 <br>
 <br>
 <br>
