@@ -122,7 +122,7 @@
 <br>
 <br>
 <br>
-##### 정규 표현식 활용
+##### 정규 표현식 (장소명 단어 사전) 활용
 ![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2010-49-35.png)
 <br>
 <br>
