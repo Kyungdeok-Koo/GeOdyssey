@@ -85,8 +85,8 @@
 <br>
 
 ## 주요 기능
-##### TOPIC 간의 유사성 및 관계 구조를 시각화하기 위해 활용
-![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-25%2010-22-09.png)
+##### Top 30 Keyword Frequencies
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-26%2012-51-54.png)
 <br>
 <br>
 <br>
