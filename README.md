@@ -95,7 +95,11 @@
 <br>
 <br>
 <br>
-
+##### Perplexity & Coherence
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-26%2015-22-30.png)
+<br>
+<br>
+<br>
 ##### Intertopic Distance Map & Top30_Most Relevant Terms for Topic 2 
 ![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-24%2018-02-52.png)
 <br>
@@ -103,6 +107,8 @@
 <br>
 ##### Big Kinds Comparative Analysis
 ![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-24%2018-05-22.png)
+##### Big Kinds Word_Count
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-26%2015-25-20.png)
 <br>
 <br>
 <br>
