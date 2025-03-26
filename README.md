@@ -225,37 +225,49 @@
 <br>
 <br>
 
+## 참고 논문, 문헌
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-26%2015-19-19.png)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## 참고 사이트 주소
-[공간정보교육포털](https://www.spacein.kr/)
+[🌍 공간정보교육포털](https://www.spacein.kr/)
 <br>
-[국토교통부 V-World 디지털트윈국토](https://www.vworld.kr/v4po_openapi_s001.do)
+[🌍 국토교통부 V-World 디지털트윈국토](https://www.vworld.kr/v4po_openapi_s001.do)
 <br>
-[국토정보플랫폼](https://map.ngii.go.kr/mi/openKey/openKeyInfo.do)
+[🗺 국토정보플랫폼](https://map.ngii.go.kr/mi/openKey/openKeyInfo.do)
 <br>
-[국토지리정보원 북한지도](https://www.ngii.go.kr/kor/main.do)
+[🗺 국토지리정보원 북한지도](https://www.ngii.go.kr/kor/main.do)
 <br>
-[북한지역정보넷](https://cybernk.net/home/Default.aspx)
+[🏞 북한지역정보넷](https://cybernk.net/home/Default.aspx)
 <br>
-[빅카인즈](https://www.bigkinds.or.kr/)
+[📰 빅카인즈](https://www.bigkinds.or.kr/)
 <br>
-[통계청 북한통계포털](https://kosis.kr/bukhan/index/index.do)
+[📊 통계청 북한통계포털](https://kosis.kr/bukhan/index/index.do)
 <br>
-[통일부 북한동향 조회서비스](https://www.data.go.kr/data/15079311/openapi.do)
+[📊 통일부 북한동향 조회서비스](https://www.data.go.kr/data/15079311/openapi.do)
 <br>
-[통일부 북한정보포털](https://nkinfo.unikorea.go.kr/nkp/main/portalMain.do)
+[🌏 통일부 북한정보포털](https://nkinfo.unikorea.go.kr/nkp/main/portalMain.do)
 <br>
-[통일부 북한지도](https://nkinfo.unikorea.go.kr/NKMap/)
+[🗺 통일부 북한지도](https://nkinfo.unikorea.go.kr/NKMap/)
 <br>
-[통일연구원](https://www.kinu.or.kr/main/index.do)
+[📰통일연구원](https://www.kinu.or.kr/main/index.do)
 <br>
-[통일 연구원 김정은 공개활동 보도분석 DB](https://www.kinu.or.kr/nksdb/)
+[📰통일 연구원 김정은 공개활동 보도분석 DB](https://www.kinu.or.kr/nksdb/)
 <br>
-[DailyNK](https://www.dailynk.com/)
+[📰 DailyNK](https://www.dailynk.com/)
 <br>
-[KDI 북한경제리뷰](https://www.kdi.re.kr/research/monNorth?year=2024)
+[📊 KDI 북한경제리뷰](https://www.kdi.re.kr/research/monNorth?year=2024)
 <br>
-[38 North](https://www.38north.org/)
+[🌍 38 North](https://www.38north.org/)
 <br>
-[CNN](https://edition.cnn.com/2020/04/21/asia/gallery/kim-jong-un/index.html)
+[🌐CNN](https://edition.cnn.com/2020/04/21/asia/gallery/kim-jong-un/index.html)
 
 <br>
